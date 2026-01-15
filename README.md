@@ -1,10 +1,42 @@
-<h1>Hi, I'm Tim! 
+# Hello, I'm Tim! 
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
   
   
-  I am a IT Consultant looking to get into GRC/CyberSecurity
-  <h2>👨‍💻IT Consultant Projects:</h2>
+  I am a IT Consultant with a Bachelor Degree in I.T. looking to get into GRC/CyberSecurity
+
+  ## Objective
+
+  My journey in information technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join GRC
+  
+ ## Tools & Skills
+
+ Frameworks- ISO27001* NIST 800-53* HIPPA* NIST CSF
+   
+   
+   
+   GRC and Risk - Risk Assessment* Third-Party Risk Management* CIA* IAM
+
+   Tools - Jira* Confluence* M365* Azure Active Directory* Sentinel One* Mail Assure
+
+   ## Education
+   B.S. Information Technology- Purdue Global
+
+   ## Certifications
+  Security+ "https://www.credly.com/badges"/7d2f0a92-9271-4d6b-ad65-1fdcf7dd78bc/linked_in_profile
+
+
+  ISO/IEC 27001 Lead Auditor https://www.credly.com/badges/a7baa80e-06b1-458d-927a-d3f1951e0435
+
+
+  GRC Mastery https://www.credly.com/badges/3db5255f-052d-4bd9-b441-cfaa04c6724d
+
+  
+
+
+
+   
+ <h2>👨‍💻IT Consultant Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
